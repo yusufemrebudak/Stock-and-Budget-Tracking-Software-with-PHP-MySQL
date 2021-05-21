@@ -1,7 +1,7 @@
 <?php 
 
 try {
-	$db=new PDO("mysql:host=localhost;dbname=akucu",'akucu','3c1af72.Yusuf');
+	$db=new PDO("mysql:host=localhost;dbname=akucu",'username','password');
 
 
 
